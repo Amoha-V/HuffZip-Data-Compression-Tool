@@ -7,7 +7,7 @@ def analyze_patterns(data):
         "text-generation",
         model="facebook/bart-base",  # BART model
         framework="pt",  # Force PyTorch backend
-        use_auth_token="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"  # Replace with your token
+        use_auth_token=""  # Replace with your token
     )
     patterns = analyzer(data, max_length=50)
     return patterns
