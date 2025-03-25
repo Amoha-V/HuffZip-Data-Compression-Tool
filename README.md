@@ -4,8 +4,6 @@
 
 HuffZip is a powerful data compression tool that uses state-of-the-art algorithms to efficiently compress your files. It provides an intuitive web interface built with Streamlit that allows users to compress and decompress files with just a few clicks.
 
-![HuffZip Screenshot](https://raw.githubusercontent.com/Amoha-V/HuffZip-Data-Compression-Tool/master/data/screenshot.png)
-
 ## Inspiration
 
 I got inspired from the lossless compression techniques, particularly the Huffman compression algorithm that I learned in my Data Structures and Algorithms course. For anyone interested in understanding how this works, there are great explanations of the Huffman coding algorithm available at:
